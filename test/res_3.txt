@@ -1,0 +1,20 @@
+Invalid data. You add symbols 'Тест', which are ignored. Number of value: 1
+Invalid data. You add symbols 'с', which are ignored. Number of value: 2
+Invalid data. You add symbols 'неккоректными', which are ignored. Number of value: 3
+Invalid data. You add symbols 'значениями', which are ignored. Number of value: 4
+graph must be without loops. Your values from 3 to 5 are ignored
+Invalid data. You add symbols '-вершина', which are ignored. Number of value: 5
+Invalid data. You add symbols 'входит', which are ignored. Number of value: 6
+Invalid data. You add symbols 'в', which are ignored. Number of value: 7
+Invalid data. You add symbols 'саму', which are ignored. Number of value: 8
+Invalid data. You add symbols 'себя', which are ignored. Number of value: 9
+graph must be without loops. Your values from 8 to 10 are ignored
+Invalid data. You add symbols '-', which are ignored. Number of value: 10
+Invalid data. You add symbols 'цикл', which are ignored. Number of value: 11
+Invalid data. You add symbols '(ноль', which are ignored. Number of value: 12
+Invalid data. You add symbols 'входит', which are ignored. Number of value: 13
+Invalid data. You add symbols 'в', which are ignored. Number of value: 14
+Invalid data. You add symbols 'два', which are ignored. Number of value: 15
+Invalid data. You add symbols 'и', which are ignored. Number of value: 16
+Invalid data. You add symbols 'наоборот)', which are ignored. Number of value: 17
+There are not enough values

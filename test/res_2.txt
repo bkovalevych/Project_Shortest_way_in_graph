@@ -1,0 +1,8 @@
+Invalid data. You add symbols 'Тест', which are ignored. Number of value: 1
+Invalid data. You add symbols 'на', which are ignored. Number of value: 2
+Invalid data. You add symbols 'взлом', which are ignored. Number of value: 3
+Invalid data. You add symbols 'sfs,', which are ignored. Number of value: 4
+Invalid data. You add symbols 'dsl;f', which are ignored. Number of value: 5
+Invalid data. You add symbols 'sakd', which are ignored. Number of value: 6
+u = 0, k = 4
+Answer: 2

@@ -1,0 +1,5 @@
+Invalid data. You add symbols 'На', which are ignored. Number of value: 1
+Invalid data. You add symbols 'правильность', which are ignored. Number of value: 2
+Invalid data. You add symbols 'данных', which are ignored. Number of value: 3
+u = 0, k = 4
+Answer: 2
