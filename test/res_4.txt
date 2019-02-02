@@ -1,0 +1,3 @@
+Out of range [0, 13] Number of value: 1
+u = 1, k = 2
+No way
